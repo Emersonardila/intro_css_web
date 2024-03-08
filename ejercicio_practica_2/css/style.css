@@ -1,0 +1,25 @@
+
+article{
+ border-color: white;
+
+ width: fit-content;
+ margin: 20px;
+ padding: 20px;
+ border-radius: 10px; 
+ background-color: rgb(1, 17, 1);  
+}
+.verde{
+    font-size: 25px;
+    color: green;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.violeta{
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+   margin: 2px;
+}
+body{
+    background-color: rgb(104, 105, 112);
+}
