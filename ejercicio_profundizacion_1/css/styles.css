@@ -1,0 +1,64 @@
+h1{
+    font-size: 50px;
+    color:black ;
+}
+h2{
+  color:black;
+  font-size: 30px;
+}
+.tres{
+    list-style-type: none;
+    border-radius: 20px; 
+    margin: 5px;
+    color: #2ec4b6;   
+}
+header{
+    background-color:aqua;
+}
+
+article{
+
+    width: fit-content;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #3de086;
+    
+  }
+  .uno{
+    color: #edf2f4 ;
+    font-size: 25px;
+  }
+  .dos{
+    color: black;
+    font-size: 16px;
+  }
+  img{
+   border-radius: 20px; 
+   margin: 5px;
+   background-color:white;
+  }
+  button{
+  border: green;
+  border-radius: 20px;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    margin: 38px;
+    background-color: green;
+  }
+  body{
+    width: 100%;
+    background-color: yellow;
+  }
+  div{
+   color:black;
+   font-size: 30px;
+   background-color:aqua;
+  }
+  p{
+    font-size: 30px;
+    color: black;
+  }
+ 
